@@ -1,0 +1,674 @@
+[
+  {
+    "country": "Bulgaria",
+    "year": 2017,
+    "nominal": "$58,220,973,783",
+    "real": "$58,950,791,932",
+    "change": 3.81
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2016,
+    "nominal": "$53,240,950,226",
+    "real": "$56,786,516,854",
+    "change": 3.94
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2015,
+    "nominal": "$50,201,314,895",
+    "real": "$54,635,643,698",
+    "change": 3.47
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2014,
+    "nominal": "$56,814,543,481",
+    "real": "$52,802,761,608",
+    "change": 1.84
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2013,
+    "nominal": "$55,555,171,010",
+    "real": "$51,850,006,769",
+    "change": 0.49
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2012,
+    "nominal": "$53,903,022,339",
+    "real": "$51,595,167,186",
+    "change": 0.03
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2011,
+    "nominal": "$57,418,414,504",
+    "real": "$51,579,193,177",
+    "change": 1.91
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2010,
+    "nominal": "$50,610,058,210",
+    "real": "$50,610,058,210",
+    "change": 1.32
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2009,
+    "nominal": "$51,884,481,410",
+    "real": "$49,948,693,651",
+    "change": -3.59
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2008,
+    "nominal": "$54,409,138,498",
+    "real": "$51,806,552,051",
+    "change": 6.02
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2007,
+    "nominal": "$44,411,476,557",
+    "real": "$48,864,017,869",
+    "change": 7.34
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2006,
+    "nominal": "$34,130,122,491",
+    "real": "$45,520,779,748",
+    "change": 6.87
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2005,
+    "nominal": "$29,636,617,750",
+    "real": "$42,592,798,159",
+    "change": 7.12
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2004,
+    "nominal": "$25,957,970,922",
+    "real": "$39,760,457,561",
+    "change": 6.44
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2003,
+    "nominal": "$20,982,685,981",
+    "real": "$37,356,436,984",
+    "change": 5.16
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2002,
+    "nominal": "$16,276,456,428",
+    "real": "$35,524,705,564",
+    "change": 5.94
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2001,
+    "nominal": "$14,075,616,789",
+    "real": "$33,533,640,179",
+    "change": 3.77
+  },
+  {
+    "country": "Bulgaria",
+    "year": 2000,
+    "nominal": "$13,153,016,531",
+    "real": "$32,315,283,606",
+    "change": 4.77
+  },
+  {
+    "country": "Bulgaria",
+    "year": 1999,
+    "nominal": "$13,531,969,309",
+    "real": "$30,845,268,715",
+    "change": -8.41
+  },
+  {
+    "country": "Bulgaria",
+    "year": 1998,
+    "nominal": "$14,942,172,234",
+    "real": "$33,676,864,762",
+    "change": 6.35
+  },
+  {
+    "country": "Bulgaria",
+    "year": 1997,
+    "nominal": "$11,195,612,105",
+    "real": "$31,666,373,359",
+    "change": -1.09
+  },
+  {
+    "country": "Bulgaria",
+    "year": 1996,
+    "nominal": "$10,109,612,142",
+    "real": "$32,014,958,711",
+    "change": 0.7
+  },
+  {
+    "country": "Bulgaria",
+    "year": 1995,
+    "nominal": "$13,063,422,619",
+    "real": "$31,790,934,141",
+    "change": 2.86
+  },
+  {
+    "country": "Bulgaria",
+    "year": 1994,
+    "nominal": "$9,697,416,974",
+    "real": "$30,906,937,187",
+    "change": 1.82
+  },
+  {
+    "country": "Portugal",
+    "year": 2017,
+    "nominal": "$219,308,128,887",
+    "real": "$238,940,661,115",
+    "change": 2.68
+  },
+  {
+    "country": "Portugal",
+    "year": 2016,
+    "nominal": "$206,275,669,202",
+    "real": "$232,443,748,862",
+    "change": 1.62
+  },
+  {
+    "country": "Portugal",
+    "year": 2015,
+    "nominal": "$199,420,256,050",
+    "real": "$228,052,068,749",
+    "change": 1.82
+  },
+  {
+    "country": "Portugal",
+    "year": 2014,
+    "nominal": "$229,629,822,122",
+    "real": "$223,971,165,762",
+    "change": 0.89
+  },
+  {
+    "country": "Portugal",
+    "year": 2013,
+    "nominal": "$226,073,492,966",
+    "real": "$221,988,394,013",
+    "change": -1.13
+  },
+  {
+    "country": "Portugal",
+    "year": 2012,
+    "nominal": "$216,368,178,659",
+    "real": "$224,525,885,053",
+    "change": -4.03
+  },
+  {
+    "country": "Portugal",
+    "year": 2011,
+    "nominal": "$244,895,101,712",
+    "real": "$233,949,991,367",
+    "change": -1.83
+  },
+  {
+    "country": "Portugal",
+    "year": 2010,
+    "nominal": "$238,303,443,425",
+    "real": "$238,303,443,425",
+    "change": 1.9
+  },
+  {
+    "country": "Portugal",
+    "year": 2009,
+    "nominal": "$243,745,748,819",
+    "real": "$233,863,105,282",
+    "change": -2.98
+  },
+  {
+    "country": "Portugal",
+    "year": 2008,
+    "nominal": "$262,007,590,450",
+    "real": "$241,041,576,029",
+    "change": 0.2
+  },
+  {
+    "country": "Portugal",
+    "year": 2007,
+    "nominal": "$240,169,336,162",
+    "real": "$240,562,202,318",
+    "change": 2.49
+  },
+  {
+    "country": "Portugal",
+    "year": 2006,
+    "nominal": "$208,566,948,940",
+    "real": "$234,713,145,003",
+    "change": 1.55
+  },
+  {
+    "country": "Portugal",
+    "year": 2005,
+    "nominal": "$197,304,513,120",
+    "real": "$231,123,669,975",
+    "change": 0.77
+  },
+  {
+    "country": "Portugal",
+    "year": 2004,
+    "nominal": "$189,187,437,298",
+    "real": "$229,364,935,351",
+    "change": 1.81
+  },
+  {
+    "country": "Portugal",
+    "year": 2003,
+    "nominal": "$164,964,195,260",
+    "real": "$225,283,733,441",
+    "change": -0.93
+  },
+  {
+    "country": "Portugal",
+    "year": 2002,
+    "nominal": "$134,228,697,534",
+    "real": "$227,408,192,516",
+    "change": 0.77
+  },
+  {
+    "country": "Portugal",
+    "year": 2001,
+    "nominal": "$121,545,880,984",
+    "real": "$225,673,226,410",
+    "change": 1.94
+  },
+  {
+    "country": "Portugal",
+    "year": 2000,
+    "nominal": "$118,358,489,958",
+    "real": "$221,371,306,251",
+    "change": 3.79
+  },
+  {
+    "country": "Ireland",
+    "year": 2017,
+    "nominal": "$331,430,014,003",
+    "real": "$358,435,650,337",
+    "change": 7.8
+  },
+  {
+    "country": "Ireland",
+    "year": 2016,
+    "nominal": "$302,242,900,804",
+    "real": "$334,293,667,860",
+    "change": 5.14
+  },
+  {
+    "country": "Ireland",
+    "year": 2015,
+    "nominal": "$291,092,489,806",
+    "real": "$318,412,578,041",
+    "change": 25.56
+  },
+  {
+    "country": "Ireland",
+    "year": 2014,
+    "nominal": "$259,101,611,738",
+    "real": "$254,491,347,692",
+    "change": 8.33
+  },
+  {
+    "country": "Ireland",
+    "year": 2013,
+    "nominal": "$238,890,278,093",
+    "real": "$233,906,350,522",
+    "change": 1.64
+  },
+  {
+    "country": "Ireland",
+    "year": 2012,
+    "nominal": "$225,128,651,298",
+    "real": "$230,820,464,319",
+    "change": 0.04
+  },
+  {
+    "country": "Ireland",
+    "year": 2011,
+    "nominal": "$237,907,714,639",
+    "real": "$230,399,651,890",
+    "change": 2.98
+  },
+  {
+    "country": "Ireland",
+    "year": 2010,
+    "nominal": "$222,134,042,030",
+    "real": "$222,134,042,030",
+    "change": 1.8
+  },
+  {
+    "country": "Ireland",
+    "year": 2009,
+    "nominal": "$236,311,336,482",
+    "real": "$218,023,275,126",
+    "change": -4.63
+  },
+  {
+    "country": "Ireland",
+    "year": 2008,
+    "nominal": "$275,020,023,436",
+    "real": "$228,600,078,638",
+    "change": -3.94
+  },
+  {
+    "country": "Ireland",
+    "year": 2007,
+    "nominal": "$269,917,519,847",
+    "real": "$237,966,261,911",
+    "change": 5.21
+  },
+  {
+    "country": "Ireland",
+    "year": 2006,
+    "nominal": "$232,085,535,065",
+    "real": "$226,184,930,381",
+    "change": 5.52
+  },
+  {
+    "country": "Ireland",
+    "year": 2005,
+    "nominal": "$211,650,764,830",
+    "real": "$214,349,276,919",
+    "change": 6.01
+  },
+  {
+    "country": "Ireland",
+    "year": 2004,
+    "nominal": "$193,870,350,137",
+    "real": "$202,204,122,281",
+    "change": 6.68
+  },
+  {
+    "country": "Ireland",
+    "year": 2003,
+    "nominal": "$164,285,112,867",
+    "real": "$189,540,490,699",
+    "change": 3.12
+  },
+  {
+    "country": "Ireland",
+    "year": 2002,
+    "nominal": "$127,945,379,258",
+    "real": "$183,806,626,260",
+    "change": 6.31
+  },
+  {
+    "country": "Ireland",
+    "year": 2001,
+    "nominal": "$109,133,512,304",
+    "real": "$172,898,016,411",
+    "change": 5.8
+  },
+  {
+    "country": "Ireland",
+    "year": 2000,
+    "nominal": "$99,853,528,653",
+    "real": "$163,414,057,103",
+    "change": 9.56
+  },
+  {
+    "country": "Sweden",
+    "year": 2017,
+    "nominal": "$535,607,385,506",
+    "real": "$569,373,173,187",
+    "change": 2.29
+  },
+  {
+    "country": "Sweden",
+    "year": 2016,
+    "nominal": "$512,205,240,408",
+    "real": "$557,636,507,608",
+    "change": 3.23
+  },
+  {
+    "country": "Sweden",
+    "year": 2015,
+    "nominal": "$498,117,638,853",
+    "real": "$543,060,934,891",
+    "change": 4.52
+  },
+  {
+    "country": "Sweden",
+    "year": 2014,
+    "nominal": "$574,413,132,025",
+    "real": "$519,891,606,168",
+    "change": 2.6
+  },
+  {
+    "country": "Sweden",
+    "year": 2013,
+    "nominal": "$579,360,671,664",
+    "real": "$506,707,568,417",
+    "change": 1.24
+  },
+  {
+    "country": "Sweden",
+    "year": 2012,
+    "nominal": "$544,481,531,962",
+    "real": "$500,509,511,891",
+    "change": -0.29
+  },
+  {
+    "country": "Sweden",
+    "year": 2011,
+    "nominal": "$563,797,423,389",
+    "real": "$502,008,068,129",
+    "change": 2.66
+  },
+  {
+    "country": "Sweden",
+    "year": 2010,
+    "nominal": "$488,909,078,695",
+    "real": "$488,909,078,695",
+    "change": 5.99
+  },
+  {
+    "country": "Sweden",
+    "year": 2009,
+    "nominal": "$429,657,033,108",
+    "real": "$460,781,805,680",
+    "change": -5.18
+  },
+  {
+    "country": "Sweden",
+    "year": 2008,
+    "nominal": "$513,965,650,650",
+    "real": "$485,978,113,844",
+    "change": -0.56
+  },
+  {
+    "country": "Sweden",
+    "year": 2007,
+    "nominal": "$487,816,328,342",
+    "real": "$488,700,407,872",
+    "change": 3.4
+  },
+  {
+    "country": "Sweden",
+    "year": 2006,
+    "nominal": "$420,032,121,656",
+    "real": "$472,608,335,572",
+    "change": 4.69
+  },
+  {
+    "country": "Sweden",
+    "year": 2005,
+    "nominal": "$389,042,298,377",
+    "real": "$451,444,063,837",
+    "change": 2.82
+  },
+  {
+    "country": "Sweden",
+    "year": 2004,
+    "nominal": "$381,705,425,302",
+    "real": "$439,069,634,291",
+    "change": 4.32
+  },
+  {
+    "country": "Sweden",
+    "year": 2003,
+    "nominal": "$331,108,912,605",
+    "real": "$420,885,165,260",
+    "change": 2.39
+  },
+  {
+    "country": "Sweden",
+    "year": 2002,
+    "nominal": "$263,926,220,333",
+    "real": "$411,077,914,064",
+    "change": 2.07
+  },
+  {
+    "country": "Sweden",
+    "year": 2001,
+    "nominal": "$239,917,320,967",
+    "real": "$402,727,057,569",
+    "change": 1.56
+  },
+  {
+    "country": "Sweden",
+    "year": 2000,
+    "nominal": "$259,802,012,617",
+    "real": "$396,527,702,705",
+    "change": 4.74
+  },
+  {
+    "country": "Romania",
+    "year": 2017,
+    "nominal": "$211,883,923,504",
+    "real": "$216,332,688,152",
+    "change": 7.26
+  },
+  {
+    "country": "Romania",
+    "year": 2016,
+    "nominal": "$188,494,136,776",
+    "real": "$201,690,020,543",
+    "change": 4.8
+  },
+  {
+    "country": "Romania",
+    "year": 2015,
+    "nominal": "$177,893,451,831",
+    "real": "$192,450,822,102",
+    "change": 3.87
+  },
+  {
+    "country": "Romania",
+    "year": 2014,
+    "nominal": "$199,626,806,402",
+    "real": "$185,277,782,605",
+    "change": 3.41
+  },
+  {
+    "country": "Romania",
+    "year": 2013,
+    "nominal": "$190,949,066,979",
+    "real": "$179,166,705,557",
+    "change": 3.51
+  },
+  {
+    "country": "Romania",
+    "year": 2012,
+    "nominal": "$171,196,268,958",
+    "real": "$173,083,660,513",
+    "change": 2.08
+  },
+  {
+    "country": "Romania",
+    "year": 2011,
+    "nominal": "$183,443,154,235",
+    "real": "$169,561,589,346",
+    "change": 2.01
+  },
+  {
+    "country": "Romania",
+    "year": 2010,
+    "nominal": "$166,225,180,150",
+    "real": "$166,225,180,150",
+    "change": -2.81
+  },
+  {
+    "country": "Romania",
+    "year": 2009,
+    "nominal": "$172,611,845,342",
+    "real": "$171,033,970,371",
+    "change": -5.91
+  },
+  {
+    "country": "Romania",
+    "year": 2008,
+    "nominal": "$213,605,065,703",
+    "real": "$181,777,686,528",
+    "change": 8.26
+  },
+  {
+    "country": "Romania",
+    "year": 2007,
+    "nominal": "$175,933,642,292",
+    "real": "$167,908,652,179",
+    "change": 6.86
+  },
+  {
+    "country": "Romania",
+    "year": 2006,
+    "nominal": "$123,533,036,668",
+    "real": "$157,124,039,331",
+    "change": 8.06
+  },
+  {
+    "country": "Romania",
+    "year": 2005,
+    "nominal": "$99,697,566,668",
+    "real": "$145,410,415,826",
+    "change": 4.17
+  },
+  {
+    "country": "Romania",
+    "year": 2004,
+    "nominal": "$76,216,441,462",
+    "real": "$139,586,967,164",
+    "change": 8.36
+  },
+  {
+    "country": "Romania",
+    "year": 2003,
+    "nominal": "$59,867,801,205",
+    "real": "$128,819,473,862",
+    "change": 5.52
+  },
+  {
+    "country": "Romania",
+    "year": 2002,
+    "nominal": "$46,174,557,556",
+    "real": "$122,075,674,431",
+    "change": 5.18
+  },
+  {
+    "country": "Romania",
+    "year": 2001,
+    "nominal": "$40,716,836,998",
+    "real": "$116,058,955,111",
+    "change": 5.59
+  },
+  {
+    "country": "Romania",
+    "year": 2000,
+    "nominal": "$37,438,527,800",
+    "real": "$109,912,637,829",
+    "change": 2.4
+  }
+]

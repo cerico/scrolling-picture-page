@@ -1,0 +1,36 @@
+{
+  "name": "bulgaria",
+  "version": "1.0.0",
+  "description": "bulgaria gdp",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "css-loader": "^4.2.2",
+    "d3": "^5.15.0",
+    "mapbox-gl": "^1.11.0",
+    "raw.macro": "^0.4.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-mapbox-gl": "^4.8.6",
+    "styled-components": "^5.1.1",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1",
+    "webpack-merge": "^4.2.2"
+  },
+  "scripts": {
+    "dev": "webpack-dev-server --config webpack/dev.config.js",
+    "build": "webpack --config webpack/prod.config.js && npm run copy",
+    "copy": "cp -r src/index.html dist && cp _headers dist && cp -r public dist",
+    "start": "node server.js",
+    "deploy": "./bin/deploy.sh",
+    "netlify": "netlify deploy --prod -d dist"
+  },
+  "author": "gareth",
+  "license": "ISC"
+}
