@@ -1,7 +1,7 @@
 {
-  "name": "bulgaria",
+  "name": "scrolling picture page",
   "version": "1.0.0",
-  "description": "bulgaria gdp",
+  "description": "scrolling picture page",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1"
